@@ -1,9 +1,8 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/",
-      "destination": "/HTML",
-      "statusCode": 302
+      "destination": "/HTML"
     }
   ]
 }

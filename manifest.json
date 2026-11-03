@@ -1,0 +1,76 @@
+{
+  "name": "Văn Diễn – VD SOLUTIONS",
+  "short_name": "Văn Diễn",
+  "description": "Gửi yêu cầu mua sản phẩm hoặc thực hiện dịch vụ. Văn Diễn tìm nguồn và báo giá.",
+  "lang": "vi",
+  "dir": "ltr",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F4F7F2",
+  "theme_color": "#F4F7F2",
+  "categories": [
+    "business",
+    "shopping"
+  ],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Tìm sản phẩm",
+      "short_name": "Tìm sản phẩm",
+      "url": "/#find",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Gửi yêu cầu dịch vụ",
+      "short_name": "Gửi yêu cầu",
+      "url": "/#request",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Liên hệ",
+      "short_name": "Liên hệ",
+      "url": "/#contact",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
